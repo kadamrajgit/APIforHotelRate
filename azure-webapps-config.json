@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/azure-webapp",
+  "build": {
+    "appLocation": "HotelAvailabilityApi",
+    "apiLocation": "",
+    "outputLocation": "bin/Release/net8.0/publish"
+  },
+  "routes": [
+    {
+      "route": "/api/*",
+      "serve": "/api/index.html"
+    }
+  ]
+}

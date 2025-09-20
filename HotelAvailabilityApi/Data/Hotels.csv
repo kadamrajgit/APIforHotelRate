@@ -1,0 +1,21 @@
+HotelName,City,AvailableDate,IsAvailable
+Grand Plaza,New York,2025-09-21,TRUE
+Grand Plaza,New York,2025-09-22,FALSE
+City Inn,New York,2025-09-21,TRUE
+City Inn,New York,2025-09-22,TRUE
+Lakeview Resort,Chicago,2025-09-21,TRUE
+Lakeview Resort,Chicago,2025-09-22,FALSE
+Sunset Hotel,Chicago,2025-09-21,FALSE
+Sunset Hotel,Chicago,2025-09-22,TRUE
+Beachside,Miami,2025-09-21,TRUE
+Beachside,Miami,2025-09-22,TRUE
+Palm Suites,Miami,2025-09-21,FALSE
+Palm Suites,Miami,2025-09-22,TRUE
+Mountain Lodge,Denver,2025-09-21,TRUE
+Mountain Lodge,Denver,2025-09-22,TRUE
+Skyline Hotel,Denver,2025-09-21,FALSE
+Skyline Hotel,Denver,2025-09-22,TRUE
+Royal Stay,San Francisco,2025-09-21,TRUE
+Royal Stay,San Francisco,2025-09-22,FALSE
+Harbor View,San Francisco,2025-09-21,TRUE
+Harbor View,San Francisco,2025-09-22,TRUE
